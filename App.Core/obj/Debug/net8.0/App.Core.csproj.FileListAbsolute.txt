@@ -1,0 +1,15 @@
+F:\Project\SmartData\Student Management System\App.Core\bin\Debug\net8.0\App.Core.deps.json
+F:\Project\SmartData\Student Management System\App.Core\bin\Debug\net8.0\App.Core.dll
+F:\Project\SmartData\Student Management System\App.Core\bin\Debug\net8.0\App.Core.pdb
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.dll
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.pdb
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+F:\Project\SmartData\Student Management System\App.Core\bin\Debug\net8.0\Domain.dll
+F:\Project\SmartData\Student Management System\App.Core\bin\Debug\net8.0\Domain.pdb
+F:\Project\SmartData\Student Management System\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
