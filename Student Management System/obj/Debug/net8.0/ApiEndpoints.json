@@ -43,7 +43,7 @@
   },
   {
     "ContainingType": "Student_Management_System.Controllers.StudentController",
-    "Method": "Post",
+    "Method": "CreateStudentPost",
     "RelativePath": "api/Student",
     "HttpMethod": "POST",
     "IsController": true,
@@ -113,9 +113,41 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Management_System.Controllers.StudentController",
+    "Method": "PostStudent",
+    "RelativePath": "api/Student/CreateStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDTO",
+        "Type": "Domain.ModelDTO.StudentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Student_Management_System.Controllers.TeacherController",
+    "Method": "CreateTeacher",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teacherDTO",
+        "Type": "Domain.ModelDTO.TeacherDTO",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "Domain.Entity.Student",
+        "Type": "Domain.ModelDTO.TeacherDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -126,16 +158,22 @@
     ]
   },
   {
-    "ContainingType": "Student_Management_System.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "Student_Management_System.Controllers.TeacherController",
+    "Method": "GetTeacherById",
+    "RelativePath": "api/Teacher/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Student_Management_System.WeatherForecast, Student Management System, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Domain.Entity.Teacher",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -143,7 +181,6 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   }
 ]

@@ -5,6 +5,7 @@ F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.Ge
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.dll
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\refint\Domain.dll
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.pdb

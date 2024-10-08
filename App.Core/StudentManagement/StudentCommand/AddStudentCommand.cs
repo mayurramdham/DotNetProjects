@@ -31,7 +31,7 @@ namespace App.Core.StudentManagement.StudentCommand
                 await _appDbContext.Set<Domain.Entity.Student>().AddAsync(stdData);
                 await _appDbContext.SaveChangesAsync(cancellationToken);
             }
-            return model.StudentId;
+            return stdData.StudentId;
         }
     }
 

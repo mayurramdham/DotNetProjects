@@ -1,5 +1,6 @@
 ﻿using App.Core.StudentManagement.StudentCommand;
 using App.Core.StudentManagement.StudentQuery;
+using App.Core.TeacherManagement.TeacherQuery;
 using Domain.Entity;
 using Domain.ModelDTO;
 using MediatR;
@@ -19,10 +20,17 @@ namespace Student_Management_System.Controllers
             _mediatR = mediatR;
                 }
 
-        [HttpPost]
-        public async Task<IActionResult> Post(StudentDTO studentDTO)
+        [HttpPost("CreateStudent")]
+        public async Task<IActionResult> PostStudent(StudentDTO studentDTO)
         {
-            var studentId=await _mediatR.Send(new AddStudentCommand { studentDTO=studentDTO});
+            var stdId = await _mediatR.Send(new AddStudentCommand { studentDTO = studentDTO });
+            return Ok(stdId);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateStudentPost(StudentDTO studentDTO)
+        {
+            var studentId = await _mediatR.Send(new CreateStudentCommand { studentDTO = studentDTO });
             return Ok(studentId);
         }
         [HttpGet]
@@ -32,11 +40,13 @@ namespace Student_Management_System.Controllers
             return Ok(studentList);
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult<Student>> GetStudentById(int id)
+        public async Task<IActionResult> GetStudentById(int id)
         {
             var std = await _mediatR.Send(new GetStudentByIdQuery { StudentId = id });
             return Ok(std);
         }
+
+
         [HttpPut]
         public async Task<IActionResult> UpdateStudent(StudentDTO studentDTO)
         {

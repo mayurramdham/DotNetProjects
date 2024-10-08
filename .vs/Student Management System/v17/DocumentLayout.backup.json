@@ -3,76 +3,68 @@
   "WorkspaceRootPath": "F:\\Project\\SmartData\\Student Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\teachermanagement\\teachercommand\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\teachermanagement\\teachercommand\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\coursemanagement\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\coursemanagement\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\enrollmentmanagement\\createenrollmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\enrollmentmanagement\\createenrollmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\controllers\\enrollementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\enrollementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\coursemanagement\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\coursemanagement\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\teachermanagement\\teacherquery\\getteacherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\teachermanagement\\teacherquery\\getteacherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentquery\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentquery\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentquery\\getstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentquery\\getstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,12 +75,40 @@
       "RelativeMoniker": "D:0:0:{64B2862E-592B-4AE5-BFDC-2950764F20FC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\student management system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\student management system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2862E-592B-4AE5-BFDC-2950764F20FC}|Infrastructure\\Infrastructure.csproj|f:\\project\\smartdata\\student management system\\infrastructure\\migrations\\20241006092956_studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B2862E-592B-4AE5-BFDC-2950764F20FC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241006092956_studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|f:\\project\\smartdata\\student management system\\domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\enrollmentmanagement\\createenrollmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\enrollmentmanagement\\createenrollmentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\studentmanagement\\studentcommand\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|f:\\project\\smartdata\\student management system\\app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|f:\\project\\smartdata\\student management system\\student management system\\student management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -106,210 +126,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Student Management System\\Controllers\\CourseController.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Student Management System\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:28:57.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CourseDTO.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\CourseDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\ModelDTO\\CourseDTO.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\CourseDTO.cs",
-              "RelativeToolTip": "Domain\\ModelDTO\\CourseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:24:20.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCourseCommand.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\CourseManagement\\CreateCourseCommand.cs",
-              "RelativeDocumentMoniker": "App.Core\\CourseManagement\\CreateCourseCommand.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\CourseManagement\\CreateCourseCommand.cs",
-              "RelativeToolTip": "App.Core\\CourseManagement\\CreateCourseCommand.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:17:34.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnrollementDTO.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\EnrollementDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\ModelDTO\\EnrollementDTO.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\EnrollementDTO.cs",
-              "RelativeToolTip": "Domain\\ModelDTO\\EnrollementDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:09:37.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnrollementController.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\EnrollementController.cs",
-              "RelativeDocumentMoniker": "Student Management System\\Controllers\\EnrollementController.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\EnrollementController.cs",
-              "RelativeToolTip": "Student Management System\\Controllers\\EnrollementController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA8wBMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:04:36.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateEnrollmentManagement.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
-              "RelativeDocumentMoniker": "App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
-              "RelativeToolTip": "App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T18:55:47.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DeleteStudentCommand.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
-              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
-              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:46:38.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateStudentCommand.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\UpdateStudentCommand.cs",
-              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\UpdateStudentCommand.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\UpdateStudentCommand.cs",
-              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\UpdateStudentCommand.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:55:09.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetStudentByIdQuery.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
-              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
-              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:41:30.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetStudentsQuery.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
-              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
-              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:21:21.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Student Management System\\Controllers\\StudentController.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Student Management System\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:07:08.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\ModelDTO\\StudentDTO.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentDTO.cs",
-              "RelativeToolTip": "Domain\\ModelDTO\\StudentDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:34:36.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddStudentCommand.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
-              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
-              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:32:53.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App.Core",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
-              "RelativeDocumentMoniker": "App.Core\\App.Core.csproj",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj*",
-              "RelativeToolTip": "App.Core\\App.Core.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-06T09:31:56.79Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\TeacherController.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:23:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vyAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:07:08.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:17:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\StudentDTO.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:34:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTeacherCommand.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "RelativeToolTip": "App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:26:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCourseCommand.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\CourseManagement\\CreateCourseCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\CourseManagement\\CreateCourseCommand.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\CourseManagement\\CreateCourseCommand.cs",
+              "RelativeToolTip": "App.Core\\CourseManagement\\CreateCourseCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:02:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\TeacherDTO.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\TeacherDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\TeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:14:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetTeacherByIdQuery.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "RelativeToolTip": "App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:13:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Teacher.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Entity\\Teacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:26:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetStudentByIdQuery.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:11:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentGetDTO.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentGetDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\StudentGetDTO.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\StudentGetDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\StudentGetDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:21:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Student.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Student.cs",
+              "RelativeToolTip": "Domain\\Entity\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:24:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Enrollment.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Enrollment.cs",
+              "RelativeToolTip": "Domain\\Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:31:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetStudentsQuery.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:21:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Courses.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Courses.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Courses.cs",
+              "RelativeToolTip": "Domain\\Entity\\Courses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:28:05.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStudentCommand.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\AddStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:32:53.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Program.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Program.cs",
+              "RelativeToolTip": "Student Management System\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:20:53.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependancyInjection.cs",
               "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\DependancyInjection.cs",
               "RelativeToolTip": "Infrastructure\\DependancyInjection.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:18:29.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T09:18:29.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:26:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241006092956_studentmanagement.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\Migrations\\20241006092956_studentmanagement.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241006092956_studentmanagement.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\Migrations\\20241006092956_studentmanagement.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241006092956_studentmanagement.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:04:01.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Student Management System.http",
               "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Student Management System.http",
               "RelativeDocumentMoniker": "Student Management System\\Student Management System.http",
@@ -317,12 +398,71 @@
               "RelativeToolTip": "Student Management System\\Student Management System.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-06T09:15:16.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T09:15:16.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\CourseDTO.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\CourseDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:24:20.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "EnrollementDTO.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\EnrollementDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\EnrollementDTO.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\ModelDTO\\EnrollementDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\EnrollementDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:09:37.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateEnrollmentManagement.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
+              "RelativeDocumentMoniker": "App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
+              "RelativeToolTip": "App.Core\\EnrollmentManagement\\CreateEnrollmentManagement.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:06:28.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\DeleteStudentCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:46:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.Core.csproj",
+              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
+              "RelativeDocumentMoniker": "App.Core\\App.Core.csproj",
+              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
+              "RelativeToolTip": "App.Core\\App.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T09:31:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Student Management System.csproj",
               "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Student Management System.csproj",
               "RelativeDocumentMoniker": "Student Management System\\Student Management System.csproj",
@@ -330,12 +470,11 @@
               "RelativeToolTip": "Student Management System\\Student Management System.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-06T09:03:44.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T09:03:44.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -343,12 +482,11 @@
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-06T09:03:31.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T09:03:31.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "DependancyInjection.cs",
               "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\App.Core\\DependancyInjection.cs",
               "RelativeDocumentMoniker": "App.Core\\DependancyInjection.cs",
@@ -356,73 +494,7 @@
               "RelativeToolTip": "App.Core\\DependancyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:56:47.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Domain\\Entity\\Enrollment.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Enrollment.cs",
-              "RelativeToolTip": "Domain\\Entity\\Enrollment.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:31:25.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Courses.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Courses.cs",
-              "RelativeDocumentMoniker": "Domain\\Entity\\Courses.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Courses.cs",
-              "RelativeToolTip": "Domain\\Entity\\Courses.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:28:05.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Teacher.cs",
-              "RelativeDocumentMoniker": "Domain\\Entity\\Teacher.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Teacher.cs",
-              "RelativeToolTip": "Domain\\Entity\\Teacher.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:26:42.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Student.cs",
-              "RelativeDocumentMoniker": "Domain\\Entity\\Student.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Domain\\Entity\\Student.cs",
-              "RelativeToolTip": "Domain\\Entity\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:24:59.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Student Management System\\Program.cs",
-              "ToolTip": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Program.cs",
-              "RelativeToolTip": "Student Management System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:20:53.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:56:47.037Z"
             }
           ]
         }

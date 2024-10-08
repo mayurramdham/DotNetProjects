@@ -16,6 +16,7 @@ namespace Domain.Entity
         public int CourseId { get; set; }
         public string Title { get; set; }
         public int Credit { get; set; }
+        
         public ICollection<Enrollment> Enrollment { get; set; }
     }
 }

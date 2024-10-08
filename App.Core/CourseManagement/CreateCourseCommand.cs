@@ -31,7 +31,7 @@ namespace App.Core.CourseManagement
                 await _appDbContext.Set<Domain.Entity.Courses>().AddAsync(courseData);
                 await _appDbContext.SaveChangesAsync(cancellationToken);
             }
-            return model.CourseId;
+            return courseData.CourseId;
         }
     }
 }

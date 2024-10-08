@@ -12,11 +12,11 @@ using System.Threading.Tasks;
 
 namespace App.Core.StudentManagement.StudentQuery
 {
-    public class GetStudentByIdQuery:IRequest<Student>
-    {
+    public class GetStudentByIdQuery:IRequest<StudentGetDTO>
+    {     
         public int StudentId  { get; set; }
     }
-    public class GetStudentByIdQueryHandler:IRequestHandler<GetStudentByIdQuery,Student>
+    public class GetStudentByIdQueryHandler:IRequestHandler<GetStudentByIdQuery, StudentGetDTO>
     {
         public readonly IAppDbContext _appDbContext;
         public GetStudentByIdQueryHandler(IAppDbContext appDbContext)
@@ -24,20 +24,19 @@ namespace App.Core.StudentManagement.StudentQuery
             _appDbContext = appDbContext;
         }
 
-        public async  Task<Student> Handle(GetStudentByIdQuery request, CancellationToken cancellationToken)
+        public async Task<StudentGetDTO> Handle(GetStudentByIdQuery request, CancellationToken cancellationToken)
         {
-            var stdId=request.StudentId;
-            var student = await _appDbContext.Set<Domain.Entity.Student>()
+            //var stdId = request.StudentId;
+            var student= await _appDbContext.Set<Domain.Entity.Student>()
                 .Include(e=>e.Enrollment)
-                .ThenInclude(c=>c.Courses)
-                .FirstOrDefaultAsync(e=>e.StudentId==stdId);
-            if (stdId == null)
+                .FirstOrDefaultAsync(e => e.StudentId==request.StudentId, cancellationToken);
+            
+
+            if (student == null)
             {
                 return null;
             }
-          var studentMap= student.Adapt<Student>();
-            return studentMap;
-            
+            return student.Adapt<StudentGetDTO>();
         }
     }
 }
