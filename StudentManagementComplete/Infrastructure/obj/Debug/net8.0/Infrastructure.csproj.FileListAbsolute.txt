@@ -1,0 +1,58 @@
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\App.Core.dll
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+F:\Project\SmartData\Student Management System\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+F:\Project\SmartData\Student Management System\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\mayurramdham\Desktop\Mayur\Projects\StudentManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\App.Core.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

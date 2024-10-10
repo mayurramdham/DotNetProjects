@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\coursemanagement\\coursequery\\getbyidcoursequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\coursemanagement\\coursequery\\getbyidcoursequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\studentmanagement\\studentquery\\getstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentquery\\getstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\studentmanagement\\studentquery\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentquery\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\coursemanagement\\coursecommand\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\coursemanagement\\coursecommand\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\teachermanagement\\teacherquery\\getteacherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\teachermanagement\\teacherquery\\getteacherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\enrollmentmanagement\\enrollementquery\\getenrollementquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\enrollmentmanagement\\enrollementquery\\getenrollementquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\enrollmentmanagement\\enrollementquery\\getenrollmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\enrollmentmanagement\\enrollementquery\\getenrollmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\studentmanagement\\studentcommand\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\studentmanagement\\studentcommand\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\app.core\\teachermanagement\\teachercommand\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF8B20-0F15-45F8-905D-3B05A0286753}|App.Core\\App.Core.csproj|solutionrelative:app.core\\teachermanagement\\teachercommand\\createteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\modeldto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\controllers\\enrollementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\enrollementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2862E-592B-4AE5-BFDC-2950764F20FC}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\infrastructure\\migrations\\20241009055251_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B2862E-592B-4AE5-BFDC-2950764F20FC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241009055251_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\modeldto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\student management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA850BEB-0134-4A41-ABD0-BBE7A93A19C4}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\mayur\\projects\\studentmanagement\\domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4244B7A-DBD8-4C8D-B1F3-F1749324091C}|Domain\\Domain.csproj|solutionrelative:domain\\modeldto\\enrollementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetByIdCourseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\CourseManagement\\CourseQuery\\GetByIdCourseQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\CourseManagement\\CourseQuery\\GetByIdCourseQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\CourseManagement\\CourseQuery\\GetByIdCourseQuery.cs",
+              "RelativeToolTip": "App.Core\\CourseManagement\\CourseQuery\\GetByIdCourseQuery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:51:28.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\CourseManagement\\CourseCommand\\CreateCourseCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\CourseManagement\\CourseCommand\\CreateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\CourseManagement\\CourseCommand\\CreateCourseCommand.cs",
+              "RelativeToolTip": "App.Core\\CourseManagement\\CourseCommand\\CreateCourseCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:50:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Courses.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Courses.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Courses.cs",
+              "RelativeToolTip": "Domain\\Entity\\Courses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:26:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetStudentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentByIdQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:58:22.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetStudentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentQuery\\GetStudentsQuery.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:44:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:21:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetTeacherByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "RelativeToolTip": "App.Core\\TeacherManagement\\TeacherQuery\\GetTeacherByIdQuery.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:55:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEnrollmentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollmentByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollmentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollmentByIdQuery.cs",
+              "RelativeToolTip": "App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollmentByIdQuery.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:32:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "RelativeToolTip": "App.Core\\StudentManagement\\StudentCommand\\CreateStudentCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:31:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTeacherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "RelativeToolTip": "App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:20:24.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEnrollementQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollementQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollementQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollementQuery.cs",
+              "RelativeToolTip": "App.Core\\EnrollmentManagement\\EnrollementQuery\\GetEnrollementQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:39:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\TeacherDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\TeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:44:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Entity\\Teacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:26:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:24:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\StudentDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:45:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241009055251_studentmigration.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Infrastructure\\Migrations\\20241009055251_studentmigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241009055251_studentmigration.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Infrastructure\\Migrations\\20241009055251_studentmigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241009055251_studentmigration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:52:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\CourseDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\CourseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:21:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:51:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnrollementDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\EnrollementDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\ModelDTO\\EnrollementDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\ModelDTO\\EnrollementDTO.cs",
+              "RelativeToolTip": "Domain\\ModelDTO\\EnrollementDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:41:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnrollementController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\EnrollementController.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Controllers\\EnrollementController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Controllers\\EnrollementController.cs",
+              "RelativeToolTip": "Student Management System\\Controllers\\EnrollementController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:40:59.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Enrollment.cs",
+              "RelativeToolTip": "Domain\\Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:26:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Domain\\Entity\\Student.cs",
+              "RelativeToolTip": "Domain\\Entity\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:25:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Student Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\appsettings.json",
+              "RelativeToolTip": "Student Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T04:16:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\Projects\\StudentManagement\\Student Management System\\Program.cs",
+              "RelativeToolTip": "Student Management System\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:14:27.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

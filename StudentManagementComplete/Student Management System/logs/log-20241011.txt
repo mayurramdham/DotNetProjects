@@ -1,0 +1,16 @@
+2024-10-11 00:06:20.534 +05:30 [ERR] An unexpected error occurred.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: 
+Ambiguous HTTP method for action - Student_Management_System.
+Controllers.CourseController.AddCourse (Student Management System).
+Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.
+   GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator
+   .GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.
+   GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.
+   GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.
+   Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Student_Management_System.GlobalExceptionHandling.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in F:\Project\SmartData\StudentManagementCompleteZip\StudentManagementComplete\Student Management System\GlobalExceptionHandling\GlobalExceptionMiddleware.cs:line 20

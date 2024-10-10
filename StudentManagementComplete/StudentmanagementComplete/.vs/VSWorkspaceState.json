@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App.Core",
+    "\\App.Core\\bin",
+    "\\App.Core\\CourseManagement",
+    "\\App.Core\\TeacherManagement",
+    "\\App.Core\\TeacherManagement\\TeacherCommand",
+    "\\Student Management System"
+  ],
+  "SelectedNode": "\\App.Core\\TeacherManagement\\TeacherCommand\\CreateTeacherCommand.cs",
+  "PreviewInSolutionExplorer": false
+}
