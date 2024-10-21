@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eLPrBlaaPZQ=",
+  "dgSpecHash": "N6z0ijperg4=",
   "success": true,
-  "projectFilePath": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
+  "projectFilePath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",

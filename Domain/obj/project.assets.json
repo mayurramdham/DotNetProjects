@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj",
+      "projectUniqueName": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj",
+      "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\SmartData\\Student Management System\\Domain\\obj\\",
+      "outputPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mayur Ramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",

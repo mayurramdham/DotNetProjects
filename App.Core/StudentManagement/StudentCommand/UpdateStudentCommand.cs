@@ -1,6 +1,7 @@
 ﻿using App.Core.Interfaces;
 using Domain.ModelDTO;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;

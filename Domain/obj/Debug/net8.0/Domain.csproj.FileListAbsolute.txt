@@ -10,3 +10,15 @@ F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.dl
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\refint\Domain.dll
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\Domain.pdb
 F:\Project\SmartData\Student Management System\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\bin\Debug\net8.0\Domain.dll
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.dll
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Project\SmartData\StudentManagementCompleteZip\Domain\obj\Debug\net8.0\ref\Domain.dll

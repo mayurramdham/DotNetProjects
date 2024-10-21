@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
+      "projectUniqueName": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\App.Core.csproj",
       "projectName": "App.Core",
-      "projectPath": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj",
+      "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\App.Core.csproj",
       "packagesPath": "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\SmartData\\Student Management System\\App.Core\\obj\\",
+      "outputPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mayur Ramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -716,8 +716,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj"
+            "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj"
             }
           }
         }

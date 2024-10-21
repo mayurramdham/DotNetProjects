@@ -4660,11 +4660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Student Management System.csproj",
+      "projectUniqueName": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Student Management System\\Student Management System.csproj",
       "projectName": "Student Management System",
-      "projectPath": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\Student Management System.csproj",
+      "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Student Management System\\Student Management System.csproj",
       "packagesPath": "C:\\Users\\Mayur Ramdham\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\SmartData\\Student Management System\\Student Management System\\obj\\",
+      "outputPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Student Management System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mayur Ramdham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4682,14 +4682,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj": {
-              "projectPath": "F:\\Project\\SmartData\\Student Management System\\App.Core\\App.Core.csproj"
+            "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\App.Core.csproj": {
+              "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\App.Core\\App.Core.csproj"
             },
-            "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Project\\SmartData\\Student Management System\\Domain\\Domain.csproj"
+            "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Domain\\Domain.csproj"
             },
-            "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "F:\\Project\\SmartData\\Student Management System\\Infrastructure\\Infrastructure.csproj"
+            "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "F:\\Project\\SmartData\\StudentManagementCompleteZip\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
