@@ -1,0 +1,623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\customercommandquery\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\customercommandquery\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\customercommand\\addcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\customercommand\\addcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\customercommand\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\customercommand\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\model\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\model\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\employee\\employeecommand\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\employee\\employeecommand\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021055208_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241021055208_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021054649_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241021054649_intialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\model\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\model\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\patient\\patientcommand\\patientdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\patient\\patientcommand\\patientdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\patient\\patientquery\\getpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\patient\\patientquery\\getpatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\patient\\patientcommand\\patientupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\patient\\patientcommand\\patientupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\employee\\employeequery\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\employee\\employeequery\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\patient\\patientcommand\\addpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\patient\\patientcommand\\addpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\customercommand\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\customercommand\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\employee\\employeecommand\\updateemployeecommandcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\employee\\employeecommand\\updateemployeecommandcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\model\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\model\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\employee\\employeecommand\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\employee\\employeecommand\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\app.core\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1B4542-A627-4155-8F8B-E30606CA450C}|App.Core\\App.Core.csproj|solutionrelative:app.core\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesment\\EmployeCustomerPatient\\WebApplication1\\Infrastructure\\Migrations\\20241018035617_add-migration customermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C60F3943-0CE7-4611-A397-E1AAA24B40A5}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D807C4A8-3991-4B97-8855-F99FD093EFC1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|c:\\users\\mayurramdham\\desktop\\dotnettest\\employecustomerpatientbackend\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B919795E-F274-4F23-84E2-E43AA9886AB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "App.Core\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\DependancyInjection.cs",
+              "RelativeToolTip": "App.Core\\DependancyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:39:22.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\PatientDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\PatientDTO.cs",
+              "RelativeToolTip": "Domain\\Model\\PatientDTO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:54:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\AddCustomerCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\CustomerCommand\\AddCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\AddCustomerCommand.cs",
+              "RelativeToolTip": "App.Core\\CustomerCommand\\AddCustomerCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:38:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entity\\Customer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:24:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\CustomerDTO.cs",
+              "RelativeToolTip": "Domain\\Model\\CustomerDTO.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA2wD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:51:48.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommandQuery\\GetCustomerQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\CustomerCommandQuery\\GetCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommandQuery\\GetCustomerQuery.cs",
+              "RelativeToolTip": "App.Core\\CustomerCommandQuery\\GetCustomerQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:26:09.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeQuery\\GetEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\Employee\\EmployeeQuery\\GetEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeQuery\\GetEmployeeQuery.cs",
+              "RelativeToolTip": "App.Core\\Employee\\EmployeeQuery\\GetEmployeeQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:57:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\CustomerCommand\\DeleteCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "App.Core\\CustomerCommand\\DeleteCustomerCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:28:10.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entity\\Employee.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA6wFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:44:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\Employee\\EmployeeCommand\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "App.Core\\Employee\\EmployeeCommand\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:35:00.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:41:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241021055208_intialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021055208_intialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241021055208_intialMigration.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021055208_intialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241021055208_intialMigration.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowHYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:52:09.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241021054649_intialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021054649_intialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241021054649_intialMigration.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Migrations\\20241021054649_intialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241021054649_intialMigration.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:46:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:38:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Patient.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Entity\\Patient.cs",
+              "RelativeToolTip": "Domain\\Entity\\Patient.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:39:09.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientDeleteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\PatientDeleteCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\Patient\\PatientCommand\\PatientDeleteCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\PatientDeleteCommand.cs",
+              "RelativeToolTip": "App.Core\\Patient\\PatientCommand\\PatientDeleteCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:20:20.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetPatientQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientQuery\\GetPatientQuery.cs",
+              "RelativeDocumentMoniker": "App.Core\\Patient\\PatientQuery\\GetPatientQuery.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientQuery\\GetPatientQuery.cs",
+              "RelativeToolTip": "App.Core\\Patient\\PatientQuery\\GetPatientQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:46:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\PatientUpdateCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\Patient\\PatientCommand\\PatientUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\PatientUpdateCommand.cs",
+              "RelativeToolTip": "App.Core\\Patient\\PatientCommand\\PatientUpdateCommand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:52:57.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\CustomerCommand\\UpdateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\CustomerCommand\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "App.Core\\CustomerCommand\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:36:07.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddPatientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\AddPatientCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\Patient\\PatientCommand\\AddPatientCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Patient\\PatientCommand\\AddPatientCommand.cs",
+              "RelativeToolTip": "App.Core\\Patient\\PatientCommand\\AddPatientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:36:08.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA3wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:00:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateEmployeeCommandcs.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\UpdateEmployeeCommandcs.cs",
+              "RelativeDocumentMoniker": "App.Core\\Employee\\EmployeeCommand\\UpdateEmployeeCommandcs.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\UpdateEmployeeCommandcs.cs",
+              "RelativeToolTip": "App.Core\\Employee\\EmployeeCommand\\UpdateEmployeeCommandcs.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:04:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:29:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Model\\EmployeeDTO.cs",
+              "RelativeToolTip": "Domain\\Model\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:47:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\Employee\\EmployeeCommand\\AddEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\Employee\\EmployeeCommand\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "App.Core\\Employee\\EmployeeCommand\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:42:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:21:12.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\DependancyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependancyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:26:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "App.Core\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\IAppDbContext.cs",
+              "RelativeToolTip": "App.Core\\IAppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:42:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\App.Core.csproj",
+              "RelativeDocumentMoniker": "App.Core\\App.Core.csproj",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\App.Core\\App.Core.csproj",
+              "RelativeToolTip": "App.Core\\App.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T10:17:21.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T11:07:32.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241018035617_add-migration customermigration.cs",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesment\\EmployeCustomerPatient\\WebApplication1\\Infrastructure\\Migrations\\20241018035617_add-migration customermigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Mayur\\DotNetAssesment\\EmployeCustomerPatient\\WebApplication1\\Infrastructure\\Migrations\\20241018035617_add-migration customermigration.cs",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\Mayur\\DotNetAssesment\\EmployeCustomerPatient\\WebApplication1\\Infrastructure\\Migrations\\20241018035617_add-migration customermigration.cs",
+              "RelativeToolTip": "..\\..\\..\\Mayur\\DotNetAssesment\\EmployeCustomerPatient\\WebApplication1\\Infrastructure\\Migrations\\20241018035617_add-migration customermigration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:56:17.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T10:14:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T10:18:48.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-17T12:18:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\mayurramdham\\Desktop\\DotnetTest\\EmployeCustomerPatientBackend\\WebApplication1\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T10:23:30.766Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

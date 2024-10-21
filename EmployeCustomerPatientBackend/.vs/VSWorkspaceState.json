@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\App.Core",
+    "\\WebApplication1\\Domain",
+    "\\WebApplication1\\Domain\\Entity",
+    "\\WebApplication1\\Infrastructure",
+    "\\WebApplication1\\Infrastructure\\Migrations",
+    "\\WebApplication1\\WebApplication1"
+  ],
+  "SelectedNode": "\\WebApplication1\\WebApplication1.sln",
+  "PreviewInSolutionExplorer": false
+}
